@@ -1,1 +1,1 @@
-characters-rabbit,tortoise,refrey
+characters-rabbit,tortoise,refrey,narrator
